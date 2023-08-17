@@ -31,10 +31,6 @@ A dedicated section that highlights my past projects, including detailed descrip
  A contact form and contact details that allow visitors to reach out for inquiries, collaboration opportunities, or employment prospects.
 
 
-##                                                                   Home Page
-
-![image](https://github.com/Shristi-Raj/My-Portfolio/assets/96020715/e768fdc6-dd2c-4b51-b6ab-587461be65dd)
-
 ##                                                                    About Me
 
 ![image](https://github.com/Shristi-Raj/My-Portfolio/assets/96020715/28755df5-8f3b-448d-901a-6ed9f0eac2e5)
