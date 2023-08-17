@@ -10,12 +10,26 @@ The target audience for the Portfolio website is potential employers within the 
 
 #### The website incorporates the following key features and functionality:
 ```bash
-- Portfolio Home-Page: A section that highlights me with my "CV" and along with my all the social media handles .
-- About Me: An informative section that provides a brief biography, outlining my background, skills, and experience as a web developer.
-- Skills and Technologies: An overview of the programming languages, frameworks, and tools I am proficient in, demonstrating my technical expertise.
-- My Work:A dedicated section that highlights my past projects, including detailed descriptions, screenshots, and links to live demos or repositories.
-- Contact Me: A contact form and contact details that allow visitors to reach out for inquiries, collaboration opportunities, or employment prospects.
+- Portfolio Home-Page
 ```
+ A section that highlights me with my "CV" and along with my all the social media handles .
+ ```bash
+- About Me
+```
+An informative section that provides a brief biography, outlining my background, skills, and experience as a web developer.
+```bash
+- Skills and Technologies
+```
+ An overview of the programming languages, frameworks, and tools I am proficient in, demonstrating my technical expertise.
+```bash
+- My Work
+```
+A dedicated section that highlights my past projects, including detailed descriptions, screenshots, and links to live demos or repositories.
+```bash
+- Contact Me
+```
+ A contact form and contact details that allow visitors to reach out for inquiries, collaboration opportunities, or employment prospects.
+
 
 ##                                                                   Home Page
 
