@@ -1,4 +1,4 @@
-# --------------------------------------------------------------------PORTFOLIO-----------------------------------------------------------------------------------
+# ---------------------------------------PORTFOLIO-----------------------------------
 
 My project is a personal website designed and developed to showcase my skills and experience as a web developer. The primary goal of this website is to create a professional online presence where I can display my portfolio, share information about myself, and demonstrate my expertise in web development.
 
